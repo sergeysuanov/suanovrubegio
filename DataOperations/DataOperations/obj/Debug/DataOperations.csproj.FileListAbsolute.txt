@@ -1,0 +1,8 @@
+C:\Users\stud\Desktop\DataOperations\DataOperations\bin\Debug\DataOperations.exe.config
+C:\Users\stud\Desktop\DataOperations\DataOperations\bin\Debug\DataOperations.exe
+C:\Users\stud\Desktop\DataOperations\DataOperations\bin\Debug\DataOperations.pdb
+C:\Users\stud\Desktop\DataOperations\DataOperations\obj\Debug\DataOperations.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\DataOperations\DataOperations\obj\Debug\DataOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\Desktop\DataOperations\DataOperations\obj\Debug\DataOperations.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\DataOperations\DataOperations\obj\Debug\DataOperations.exe
+C:\Users\stud\Desktop\DataOperations\DataOperations\obj\Debug\DataOperations.pdb
